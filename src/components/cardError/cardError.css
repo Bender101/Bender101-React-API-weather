@@ -1,0 +1,12 @@
+.card-error {
+  width: 200px;
+  height: fit-content;
+  padding: 12px;
+  border-radius: 12px;
+  background-color: #3a8ac08c;
+  font-size: 14px;
+  color: #fff;
+  margin-left: 24px;
+  margin-bottom: 24px;
+  box-shadow: 3px 3px 12px 1px rgba(0, 0, 0, 0.294);
+}

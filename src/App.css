@@ -1,0 +1,9 @@
+.main {
+  min-height: 100vh;
+  background: url("../public/2.jpg") repeat;
+  background-size: 20em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
